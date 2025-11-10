@@ -1,0 +1,14 @@
+[
+  {
+    "imei": "3358600000000001",
+    "vehicle_id": "3006",
+    "route_id": "Manantial",
+    "name": "Manantial Express"
+  },
+  {
+    "imei": "3358600000000002",
+    "vehicle_id": "3008",
+    "route_id": "Manantial",
+    "name": "Manantial"
+  }
+]
