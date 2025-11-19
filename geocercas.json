@@ -32,7 +32,7 @@
     "type": "Circular",
     "coordinates": { "lat": 19.142901, "lng": -96.123381 },
     "radius_meters": 60,
-    "scheduled_minutes_from_start": 5
+    "scheduled_minutes_from_start": 3
   },
   {
     "id": "Punto: Centro",
@@ -45,4 +45,5 @@
     "radius_meters": 60,
     "scheduled_minutes_from_start": 5
   }
+
 ]
