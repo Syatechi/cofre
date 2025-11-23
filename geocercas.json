@@ -1,5 +1,4 @@
 [
-  // --- PUNTO DE INICIO ---
   {
     "id": "Terminal",
     "name": "Terminal",
@@ -12,7 +11,6 @@
     "scheduled_minutes_from_start": 0
   },
   
-  // --- TRAMO DE IDA ---
   {
     "id": "Punto: Ejercito Mx",
     "name": "Punto: Ejercito Mx",
@@ -48,7 +46,6 @@
     "scheduled_minutes_from_start": 5
   },
   
-  // --- TRAMO DE VUELTA (SOLO EJERCITO MX) ---
   {
     "id": "Punto: Ejercito Mx Regreso",
     "name": "Punto: Ejercito Mx Regreso",
@@ -77,3 +74,4 @@
 
 
 Si usas esta estructura, debes actualizar el código de Python a la **Versión V23** que maneja la lógica de secuencia (es la última versión que tienes abierta) para que detecte correctamente ambos puntos en el mismo lugar físico.
+
