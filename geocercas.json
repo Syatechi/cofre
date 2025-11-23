@@ -1,5 +1,4 @@
 [
-  // 1. TERMINAL (INICIO)
   {
     "id": "Terminal",
     "name": "Terminal",
@@ -9,8 +8,6 @@
     "radius_meters": 60,
     "scheduled_minutes_from_start": 0
   },
-  
-  // 2. IDA - EJERCITO MX (3 min)
   {
     "id": "Punto: Ejercito Mx",
     "name": "Punto: Ejercito Mx",
@@ -21,7 +18,6 @@
     "scheduled_minutes_from_start": 3
   },
   
-  // 3. IDA - CENTRO (5 min)
   {
     "id": "Punto: Centro",
     "name": "Punto: Centro",
@@ -32,7 +28,6 @@
     "scheduled_minutes_from_start": 5
   },
   
-  // 4. IDA - PLAZA CRISTAL (6 min)
   {
     "id": "Punto: Plaza cristal",
     "name": "Punto: Plaza cristal",
@@ -43,7 +38,6 @@
     "scheduled_minutes_from_start": 6
   },
   
-  // 5. VUELTA - EJERCITO MX REGRESO (10 min)
   {
     "id": "Punto: Ejercito Mx Regreso",
     "name": "Punto: Ejercito Mx Regreso",
@@ -54,7 +48,6 @@
     "scheduled_minutes_from_start": 10 
   },
   
-  // 6. VUELTA - PLAZA CRISTAL REGRESO (12 min)
   {
     "id": "Punto: Plaza cristal Regreso",
     "name": "Punto: Plaza cristal Regreso",
@@ -65,6 +58,7 @@
     "scheduled_minutes_from_start": 12
   }
 ]
+
 
 
 
