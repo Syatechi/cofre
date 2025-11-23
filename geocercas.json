@@ -1,5 +1,4 @@
 [
-  // 1. TERMINAL (Punto de inicio/fin del viaje)
   {
     "id": "Terminal",
     "name": "Terminal",
@@ -9,8 +8,6 @@
     "radius_meters": 60,
     "scheduled_minutes_from_start": 0
   },
-  
-  // 2. IDA - EJERCITO MX
   {
     "id": "Punto: Ejercito Mx",
     "name": "Punto: Ejercito Mx",
@@ -20,8 +17,6 @@
     "radius_meters": 60,
     "scheduled_minutes_from_start": 3
   },
-  
-  // 3. IDA - CENTRO (Punto que solo se toca una vez)
   {
     "id": "Punto: Centro",
     "name": "Punto: Centro",
@@ -31,8 +26,6 @@
     "radius_meters": 60,
     "scheduled_minutes_from_start": 5
   },
-  
-  // 4. IDA - PLAZA CRISTAL
   {
     "id": "Punto: Plaza cristal",
     "name": "Punto: Plaza cristal", 
@@ -42,8 +35,6 @@
     "radius_meters": 60,
     "scheduled_minutes_from_start": 6
   },
-  
-  // 5. VUELTA - EJERCITO MX REGRESO (Misma ubicación, tiempo posterior)
   {
     "id": "Punto: Ejercito Mx Regreso",
     "name": "Punto: Ejercito Mx Regreso",
@@ -53,8 +44,6 @@
     "radius_meters": 60,
     "scheduled_minutes_from_start": 10 
   },
-  
-  // 6. VUELTA - PLAZA CRISTAL REGRESO
   {
     "id": "Punto: Plaza cristal Regreso",
     "name": "Punto: Plaza cristal Regreso",
@@ -66,12 +55,6 @@
   }
 ]
 
-
-### Puntos Importantes:
-
-* **Orden Cronológico:** Aunque los puntos no estén ordenados en el JSON, el código Python los ordena internamente usando el valor `scheduled_minutes_from_start` (0, 3, 5, 6, 10, 12).
-* **Detección de Ida/Vuelta:** Los puntos **Punto: Ejercito Mx** y **Punto: Plaza cristal** se registran dos veces (Ida y Regreso) porque tienen IDs diferentes (`...` y `... Regreso`) pero las mismas coordenadas, y la lógica del backend elige el siguiente cronológicamente.
-* **Centro Único:** El punto **Punto: Centro** solo aparece una vez, por lo que solo se registra en el tramo de ida.
 
 
 
