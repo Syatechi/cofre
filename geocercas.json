@@ -57,7 +57,7 @@
     "radius_meters": 60,
     "scheduled_minutes_from_start": 10 
   }
-];
+],
  {
     "id": "Punto: Plaza cristal Regreso",
     "name": "Punto: Plaza cristal Regreso",
@@ -71,7 +71,4 @@
     "scheduled_minutes_from_start": 12
   }
 
-
-
-Si usas esta estructura, debes actualizar el código de Python a la **Versión V23** que maneja la lógica de secuencia (es la última versión que tienes abierta) para que detecte correctamente ambos puntos en el mismo lugar físico.
 
