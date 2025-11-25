@@ -13,7 +13,7 @@
     "name": "Yañes",
     "routes": ["Yañes"],
     "type": "Circular",
-    "coordinates": { "lat": 19.188955, "lng":-96.168301 },
+    "coordinates": { "lat": 19.188955, "lng": -96.168301 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 21
   },
@@ -22,7 +22,7 @@
     "name": "Mega Palmas",
     "routes": ["Yañes"],
     "type": "Circular",
-    "coordinates": { "lat": 19.196644, "lng":-96.156287 },
+    "coordinates": { "lat": 19.196644, "lng": -96.156287 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 27
   },
@@ -31,7 +31,7 @@
     "name": "Centro",
     "routes": ["Yañes"],
     "type": "Circular",
-    "coordinates": { "lat": 19.193766, "lng"-96.137808 },
+    "coordinates": { "lat": 19.193766, "lng": -96.137808 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 50
   },
@@ -40,7 +40,7 @@
     "name": "Mega Palmas Regreso",
     "routes": ["Yañes"],
     "type": "Circular",
-    "coordinates": { "lat": 19.196517, "lng"-96.155861 },
+    "coordinates": { "lat": 19.196517, "lng": -96.155861 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 60
   },
@@ -49,30 +49,17 @@
     "name": "La Pija",
     "routes": ["Yañes"],
     "type": "Circular",
-    "coordinates": { "lat": 19.183683, "lng"-96.169376 },
+    "coordinates": { "lat": 19.183683, "lng": -96.169376 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 70
   },
   {
-    "id": "La Pija",
+    "id": "Nuevo Veracruz", // 
     "name": "La Pija",
     "routes": ["Yañes"],
     "type": "Circular",
-    "coordinates": { "lat": 19.177853, "lng":-96.189653},
+    "coordinates": { "lat": 19.177853, "lng": -96.189653},
     "radius_meters": 60,
     "scheduled_minutes_from_start": 80
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
