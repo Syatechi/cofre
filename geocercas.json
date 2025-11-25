@@ -27,11 +27,11 @@
     "scheduled_minutes_from_start": 22
   },
   {
-    "id": "Punto: Plaza cristal",
-    "name": "Punto: Plaza cristal",
+    "id": "Miguel Angel Q.",
+    "name": "Miguel Angel Q.",
     "routes": ["Yañes"],
     "type": "Circular",
-    "coordinates": { "lat": 19.160624, "lng": -96.131357 },
+    "coordinates": { "lat": 19.190798, "lng":-96.151496 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 5
   },
@@ -54,6 +54,7 @@
     "scheduled_minutes_from_start": 47
   }
 ]
+
 
 
 
