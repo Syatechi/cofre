@@ -54,8 +54,8 @@
     "scheduled_minutes_from_start": 70
   },
   {
-    "id": "Nuevo Veracruz", // 
-    "name": "La Pija",
+    "id": "Nuevo Veracruz",
+    "name": "Nuevo Veracruz",
     "routes": ["Yañes"],
     "type": "Circular",
     "coordinates": { "lat": 19.177853, "lng": -96.189653},
@@ -63,3 +63,4 @@
     "scheduled_minutes_from_start": 80
   }
 ]
+
