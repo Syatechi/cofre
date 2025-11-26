@@ -1,7 +1,7 @@
 [
   {
     "imei": "3358600000000001",
-    "vehicle_id": "U-3006",
+    "vehicle_id": "3006",
     "route_id": "Yañes",
     "name": "Manantial Express"
   },
@@ -13,4 +13,5 @@
   }
 
 ]
+
 
