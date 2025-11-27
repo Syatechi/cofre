@@ -5,7 +5,7 @@
     "routes": ["Yañes"],
     "type": "Circular",
     "coordinates": { "lat": 19.162162, "lng": -96.1937904 },
-    "radius_meters": 60,
+    "radius_meters": 50,
     "scheduled_minutes_from_start": 0
   },
   {
@@ -63,4 +63,5 @@
     "scheduled_minutes_from_start": 80
   }
 ]
+
 
