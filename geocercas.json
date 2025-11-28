@@ -65,7 +65,7 @@
   {
     "id": "Terminal",
     "name": "Terminal",
-    "routes": ["Manantial"],
+    "routes": ["manantial"],
     "type": "Circular",
     "coordinates": { "lat": 19.12296, "lng": -96.11868},
     "radius_meters": 60,
@@ -74,7 +74,7 @@
    {
     "id": "Mercado Boticaria",
     "name": "Mercado Boticaria",
-    "routes": ["Manantial"],
+    "routes": ["manantial"],
     "type": "Circular",
     "coordinates": { "lat": 19.143006, "lng":-96.123450},
     "radius_meters": 60,
@@ -83,7 +83,7 @@
   {
     "id": "Plaza Cristal",
     "name": "Plaza Cristal",
-    "routes": ["Manantial"],
+    "routes": ["manantial"],
     "type": "Circular",
     "coordinates": { "lat": 19.160359, "lng":-96.131322},
     "radius_meters": 60,
@@ -92,7 +92,7 @@
   {
     "id": "Farmacia A.",
     "name": "Farmacia A.",
-    "routes": ["Manantial"],
+    "routes": ["manantial"],
     "type": "Circular",
     "coordinates": { "lat": 19.192308, "lng":-96.136703},
     "radius_meters": 60,
@@ -101,13 +101,14 @@
    {
     "id": "Plaza Cristal Regreso",
     "name": "Plaza Cristal Regreso",
-    "routes": ["Manantial"],
+    "routes": ["manantial"],
     "type": "Circular",
     "coordinates": { "lat": 19.160693, "lng":-96.131532},
     "radius_meters": 60,
     "scheduled_minutes_from_start": 40
   }
 ]
+
 
 
 
