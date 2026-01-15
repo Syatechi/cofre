@@ -1,58 +1,23 @@
 [
   {
-    "id": "Terminal",
-    "name": "Terminal",
-    "type": "Circular",
-    "coordinates": { "lat": 19.162288, "lng": -96.194064 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 0
+    "n": "Terminal",
+    "lat": 19.16228,
+    "lng": -96.19406,
+    "r": 60,
+    "m": 0
   },
   {
-    "id": "Yañes",
-    "name": "Yañes",
-    "type": "Circular",
-    "coordinates": { "lat": 19.188955, "lng": -96.168301 },
-    "radius_meters": 80,
-    "scheduled_minutes_from_start": 21
+    "n": "Yañes",
+    "lat": 19.18895,
+    "lng": -96.16830,
+    "r": 80,
+    "m": 21
   },
   {
-    "id": "Mega Palmas",
-    "name": "Mega Palmas",
-    "type": "Circular",
-    "coordinates": { "lat": 19.196644, "lng": -96.156287 },
-    "radius_meters": 80,
-    "scheduled_minutes_from_start": 27
-  },
-  {
-    "id": "Centro",
-    "name": "Centro",
-    "type": "Circular",
-    "coordinates": { "lat": 19.193766, "lng": -96.137808 },
-    "radius_meters": 80,
-    "scheduled_minutes_from_start": 50
-  },
-  {
-    "id": "Mega Palmas Regreso",
-    "name": "Mega Palmas Regreso",
-    "type": "Circular",
-    "coordinates": { "lat": 19.196517, "lng": -96.155861 },
-    "radius_meters": 80,
-    "scheduled_minutes_from_start": 60
-  },
-  {
-    "id": "La Pija",
-    "name": "La Pija",
-    "type": "Circular",
-    "coordinates": { "lat": 19.183683, "lng": -96.169376 },
-    "radius_meters": 80,
-    "scheduled_minutes_from_start": 70
-  },
-  {
-    "id": "Nuevo Veracruz",
-    "name": "Nuevo Veracruz",
-    "type": "Circular",
-    "coordinates": { "lat": 19.177853, "lng": -96.189653 },
-    "radius_meters": 80,
-    "scheduled_minutes_from_start": 80
+    "n": "Mega Palmas",
+    "lat": 19.19664,
+    "lng": -96.15628,
+    "r": 80,
+    "m": 27
   }
 ]
