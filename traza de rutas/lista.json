@@ -1,0 +1,16 @@
+[
+  {
+    "file": "yañes.json",     <-- Nombre exacto del archivo
+    "id": "yañes",            <-- Debe coincidir con el ID dentro del archivo
+    "name": "Ruta Yañes",
+    "horario": "06:00 - 22:00",
+    "precio": "$9.00"
+  },
+  {
+    "file": "norte.json",
+    "id": "norte",
+    "name": "Ruta Norte",
+    "horario": "05:00 - 23:00",
+    "precio": "$10.00"
+  }
+]
