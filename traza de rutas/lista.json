@@ -1,8 +1,9 @@
 [
   {
-    "file": "yañes.json",
-    "id": "yañes",
+    "file": "yanes.json",
+    "id": "yanes",
     "name": "Ruta Yañes",
     "horario": "06:00 - 22:00",
     "precio": "$9.00"
   }
+]
