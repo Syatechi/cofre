@@ -4,5 +4,17 @@
     "lat": 19.124022, 
     "lng": -96.146063,
     "icono": "imagenes/parada de autobus.png"
+  },
+  {
+    "nombre": "Plaza americas",
+    "lat": 19.139977, 
+    "lng": -96.108154,
+    "icono": "imagenes/parada de autobus.png"
+  },
+  {
+    "nombre": "Plaza cristal",
+    "lat": 19.160592, 
+    "lng": -96.131570,
+    "icono": "imagenes/parada de autobus.png"
   }
 ]
