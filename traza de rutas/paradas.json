@@ -12,6 +12,18 @@
     "icono": "imagenes/parada de autobus.png"
   },
   {
+    "nombre": "Plaza americas 1",
+    "lat": 19.140326, 
+    "lng": -96.103889,
+    "icono": "imagenes/parada de autobus.png"
+  },
+  {
+    "nombre": "Andamar",
+    "lat": 19.139639, 
+    "lng": -96.103399,
+    "icono": "imagenes/parada de autobus.png"
+  },
+  {
     "nombre": "Plaza cristal",
     "lat": 19.160592, 
     "lng": -96.131570,
