@@ -1,8 +1,8 @@
 {
-  "id": "yañes",
-  "name": "Ruta Yañes",
+  "id": "manantial",
+  "name": "Ruta manantial",
   "horario": "06:00 - 22:00",
-  "precio": "$9.00",
+  "precio": "$9.00-$15.00",
   "strokeColor": "#FF0000",
 
   "ida": {
