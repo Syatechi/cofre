@@ -6,6 +6,13 @@
     "horario": "06:00 - 22:00",
     "precio": "$9.00"
   },
+   {
+    "file": "alcocer.json",
+    "id": "alcocer",
+    "name": "Ruta Alcocer",
+    "horario": "06:00 - 22:00",
+    "precio": "$9.00"
+  },
   {
     "file": "manantial.json",
     "id": "manantial",
