@@ -7,6 +7,20 @@
     "precio": "$9.00"
   },
   {
+    "file": "anton lizardo.json",
+    "id": "anton lizardo",
+    "name": "Ruta anton lizardo",
+    "horario": "06:00 - 22:00",
+    "precio": "$9.00"
+  },
+  {
+    "file": "amapolas.json",
+    "id": "amapolas",
+    "name": "Ruta amapolas",
+    "horario": "06:00 - 22:00",
+    "precio": "$9.00"
+  },
+  {
     "file": "yañes.json",
     "id": "yañes",
     "name": "Ruta Yañes",
