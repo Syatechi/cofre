@@ -1,5 +1,12 @@
 [
   {
+    "file": "Prueba.json",
+    "id": "Prueba",
+    "name": "Ruta Prueba",
+    "horario": "06:00 - 22:00",
+    "precio": "$0.00"
+  },
+  {
     "file": "manantial.json",
     "id": "manantial",
     "name": "Ruta mamantial",
