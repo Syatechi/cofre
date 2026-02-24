@@ -1,65 +1,51 @@
 [
   {
-    "id": "Punto 1",
-    "name": "Punto 1",
-    "routes": ["prueba"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.124017, "lng": -96.146056 },
-    "radius_meters": 50,
-    "scheduled_minutes_from_start": 0
+    "n": "Punto 1",
+    "lat": 19.124017,
+    "lng": -96.146056,
+    "r": 50,
+    "m": 0
   },
   {
-    "id": "Las vegas",
-    "name": "Las vegas",
-    "routes": ["prueba"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.140769, "lng": -96.139640 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 10
+    "n": "Las vegas",
+    "lat": 19.140769,
+    "lng": -96.139640,
+    "r": 60,
+    "m": 10
   },
   {
-    "id": "Coca",
-    "name": "Coca",
-    "routes": ["prueba"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.143414, "lng": -96.136145 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 15
+    "n": "Coca",
+    "lat": 19.143414,
+    "lng": -96.136145,
+    "r": 60,
+    "m": 15
   },
   {
-    "id": "Virgen",
-    "name": "Virgen",
-    "routes": ["prueba"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.149907, "lng": -96.129413 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 18
+    "n": "Virgen",
+    "lat": 19.149907,
+    "lng": -96.129413,
+    "r": 60,
+    "m": 18
   },
   {
-    "id": "Toma manantial",
-    "name": "Toma manantial",
-    "routes": ["prueba"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.150429, "lng": -96.129744 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 20
+    "n": "Toma manantial",
+    "lat": 19.150429,
+    "lng": -96.129744,
+    "r": 60,
+    "m": 20
   },
   {
-    "id": "La hormiga",
-    "name": "La hormiga",
-    "routes": ["prueba"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.142387, "lng": -96.122405 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 30
+    "n": "La hormiga",
+    "lat": 19.142387,
+    "lng": -96.122405,
+    "r": 60,
+    "m": 30
   },
   {
-    "id": "Chuchin",
-    "name": "Chuchin",
-    "routes": ["prueba"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.138444, "lng": -96.123606 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 35
+    "n": "Chuchin",
+    "lat": 19.138444,
+    "lng": -96.123606,
+    "r": 60,
+    "m": 35
   }
 ]
