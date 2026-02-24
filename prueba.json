@@ -4,7 +4,7 @@
     "name": "Punto 1",
     "routes": ["prueba"],
     "type": "Circular",
-    "coordinates": { "lat": 19.124017, "lng":-96.146056},
+    "coordinates": { "lat": 19.124017, "lng": -96.146056 },
     "radius_meters": 50,
     "scheduled_minutes_from_start": 0
   },
@@ -13,7 +13,7 @@
     "name": "Las vegas",
     "routes": ["prueba"],
     "type": "Circular",
-    "coordinates": { "lat": 19.140769, "lng":-96.139640 },
+    "coordinates": { "lat": 19.140769, "lng": -96.139640 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 10
   },
@@ -22,7 +22,7 @@
     "name": "Coca",
     "routes": ["prueba"],
     "type": "Circular",
-    "coordinates": { "lat": 19.143414, "lng":-96.136145 },
+    "coordinates": { "lat": 19.143414, "lng": -96.136145 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 15
   },
@@ -31,7 +31,7 @@
     "name": "Virgen",
     "routes": ["prueba"],
     "type": "Circular",
-    "coordinates": { "lat": 19.149907, "lng":-96.129413 },
+    "coordinates": { "lat": 19.149907, "lng": -96.129413 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 18
   },
@@ -40,7 +40,7 @@
     "name": "Toma manantial",
     "routes": ["prueba"],
     "type": "Circular",
-    "coordinates": { "lat": 19.150429, "lng":-96.129744 },
+    "coordinates": { "lat": 19.150429, "lng": -96.129744 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 20
   },
@@ -49,21 +49,17 @@
     "name": "La hormiga",
     "routes": ["prueba"],
     "type": "Circular",
-    "coordinates": { "lat": 19.142387, "lng":-96.122405 },
+    "coordinates": { "lat": 19.142387, "lng": -96.122405 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 30
   },
   {
- {
     "id": "Chuchin",
     "name": "Chuchin",
     "routes": ["prueba"],
     "type": "Circular",
-    "coordinates": { "lat": 19.138444, "lng":-96.123606},
+    "coordinates": { "lat": 19.138444, "lng": -96.123606 },
     "radius_meters": 60,
     "scheduled_minutes_from_start": 35
   }
 ]
-
-
-
