@@ -1,8 +1,8 @@
 [
   {
-    "file": "Prueba.json",
-    "id": "Prueba",
-    "name": "Ruta Prueba",
+    "file": "prueba.json",
+    "id": "prueba",
+    "name": "Ruta prueba",
     "horario": "06:00 - 22:00",
     "precio": "$0.00"
   },
