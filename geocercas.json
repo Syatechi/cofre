@@ -1,116 +1,51 @@
 [
   {
-    "id": "Terminal",
-    "name": "Terminal",
-    "routes": ["Yañes"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.162288, "lng":-96.194064},
-    "radius_meters": 50,
-    "scheduled_minutes_from_start": 0
+    "n": "Punto 1",
+    "lat": 19.124017,
+    "lng": -96.146056,
+    "r": 50,
+    "m": 0
   },
   {
-    "id": "Yañes",
-    "name": "Yañes",
-    "routes": ["Yañes"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.188955, "lng": -96.168301 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 21
+    "n": "Las vegas",
+    "lat": 19.140769,
+    "lng": -96.139640,
+    "r": 60,
+    "m": 10
   },
   {
-    "id": "Mega Palmas",
-    "name": "Mega Palmas",
-    "routes": ["Yañes"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.196644, "lng": -96.156287 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 27
+    "n": "Coca",
+    "lat": 19.143414,
+    "lng": -96.136145,
+    "r": 60,
+    "m": 15
   },
   {
-    "id": "Centro",
-    "name": "Centro",
-    "routes": ["Yañes"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.193766, "lng": -96.137808 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 50
+    "n": "Virgen",
+    "lat": 19.149907,
+    "lng": -96.129413,
+    "r": 60,
+    "m": 18
   },
   {
-    "id": "Mega Palmas Regreso",
-    "name": "Mega Palmas Regreso",
-    "routes": ["Yañes"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.196517, "lng": -96.155861 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 60
+    "n": "Toma manantial",
+    "lat": 19.150429,
+    "lng": -96.129744,
+    "r": 60,
+    "m": 20
   },
   {
-    "id": "La Pija",
-    "name": "La Pija",
-    "routes": ["Yañes"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.183683, "lng": -96.169376 },
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 70
+    "n": "La hormiga",
+    "lat": 19.142387,
+    "lng": -96.122405,
+    "r": 60,
+    "m": 30
   },
   {
-    "id": "Nuevo Veracruz",
-    "name": "Nuevo Veracruz",
-    "routes": ["Yañes"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.177853, "lng": -96.189653},
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 80
-  },
-  {
-    "id": "Terminal",
-    "name": "Terminal",
-    "routes": ["manantial"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.12296, "lng": -96.11868},
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 0
-  },
-   {
-    "id": "Mercado Boticaria",
-    "name": "Mercado Boticaria",
-    "routes": ["manantial"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.143006, "lng":-96.123450},
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 80
-  },
-  {
-    "id": "Plaza Cristal",
-    "name": "Plaza Cristal",
-    "routes": ["manantial"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.160359, "lng":-96.131322},
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 40
-  },
-  {
-    "id": "Farmacia A.",
-    "name": "Farmacia A.",
-    "routes": ["manantial"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.192308, "lng":-96.136703},
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 80
-  },
-   {
-    "id": "Plaza Cristal Regreso",
-    "name": "Plaza Cristal Regreso",
-    "routes": ["manantial"],
-    "type": "Circular",
-    "coordinates": { "lat": 19.160693, "lng":-96.131532},
-    "radius_meters": 60,
-    "scheduled_minutes_from_start": 40
+    "n": "Chuchin",
+    "lat": 19.138444,
+    "lng": -96.123606,
+    "r": 60,
+    "m": 35
   }
 ]
-
-
-
-
-
-
