@@ -3,12 +3,12 @@
     "nombre": "Tienda Ejemplo",
     "lat": 19.1725,
     "lng": -96.1340,
-    "icono": "imagenes/images.png"
+    "icono": 
   },
   {
     "nombre": "Universidad UCC",
     "lat": 19.154896,
     "lng": -96.131358,
-    "icono": "imagenes/ucc.png"
+    "icono": 
   }
 ]
