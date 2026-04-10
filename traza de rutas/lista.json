@@ -28,9 +28,9 @@
     "precio": "$9.00"
   },
   {
-    "file": "yañez.json",
-    "id": "yañez",
-    "name": "Ruta Yañez",
+    "file": "yañes.json",
+    "id": "yañes",
+    "name": "Ruta Yañes",
     "horario": "06:00 - 22:00",
     "precio": "$9.00"
   }
