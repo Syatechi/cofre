@@ -1,8 +1,8 @@
 [
   {
     "nombre": "Parada Centro",
-    "lat": , 
-    "lng": ,
+    "lat": null,
+    "lng": null,
     "icono": "imagenes/parada de autobus.png"
   }
 ]
